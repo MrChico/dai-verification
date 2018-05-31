@@ -1,0 +1,1 @@
+{"msgs":[{"type":"error","data":"[Error] Internal: Uncaught exception thrown of type NullPointerException.\n"},{"type":"error","data":"Please rerun your program with the --debug flag to generate a stack trace, and\nfile a bug report at https://github.com/kframework/k/issues (null)\n"}]}
